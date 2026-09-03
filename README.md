@@ -6,25 +6,25 @@
 
 ## Leaf Segmentation
 <p align="left">
-  <img src="Images/leaf_segmentation_flowchart.png" width="600">
+  <img src="Images/leaf_segmentation_flowchart.png" width="800">
 </p>
 
 ### IoU
 <p align="left">
-  <img src="Images/iou_leaf_segmentation.png" width="450">
+  <img src="Images/iou_leaf_segmentation.png" width="600">
 </p>
 
 ## Nut Classification
 <p align="left">
-  <img src="Images/nut_classification_flowchart.png" width="600">
+  <img src="Images/nut_classification_flowchart.png" width="800">
 </p>
 
 ### IoU
 <p align="left">
-  <img src="Images/confusion_matrix_nut.png" width="450">
+  <img src="Images/confusion_matrix_nut.png" width="650">
 </p>
 
 ### F1-score
 <p align="left">
-  <img src="Images/f1score_nut.png" width="250">
+  <img src="Images/f1score_nut.png" width="350">
 </p>
